@@ -21,8 +21,5 @@
 ## AmyTelecom跑路
 目前AmyTelecom没有跑路，可以放心使用。
 
-## AmyTelecom评测
-更多有关AmyTelecom评测可访问：https://jichangzhu.com/node/amytelecom/
-
 ## 更多推荐
  - [免费分享好用的机场推荐与节点分享](https://github.com/jichanghub/jichangtuijian)
